@@ -4,3 +4,15 @@ h1{color: blue;}
 a {background-color: goldenrod;}
 .class2.class3 {background-color: deeppink;}
 .class2.class3 p {background-color: chartreuse;}
+.class6 {border: 5px solid black; 
+    background-color: coral;
+    padding-top: 100px; 
+    padding-bottom: 100px; 
+    padding-left: 490px; 
+    padding-right: 150px;
+margin-right: 150px;
+margin-left: 80px;}
+.class3 {margin: 100px 100px 150px 200px;}
+a:link {color: aqua;}
+a:hover{color: darkmagenta;}
+a:visited{color: gold;}
