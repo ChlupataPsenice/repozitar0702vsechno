@@ -27,4 +27,7 @@ li {
 a {display: block;}
 /*inlajnelementy nemaji margin a pdding, resp. nepouzivame je*/
 .sieg {margin-bottom: 100px;}
-#bagr {}
+#bagr {background-color: blueviolet;
+width: 150px;
+height: 100px;
+overflow: scroll;}
