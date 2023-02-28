@@ -30,4 +30,8 @@ a {display: block;}
 #bagr {background-color: blueviolet;
 width: 150px;
 height: 100px;
-overflow: scroll;}
+overflow: hidden;}
+.box {background-color: chartreuse;
+border: 5px solid black;
+width: 20%;
+float: center;}
