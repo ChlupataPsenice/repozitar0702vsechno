@@ -36,9 +36,27 @@ border: 5px solid black;
 width: 20%;
 float: center;}
 */
+*{
+    margin: 0px;
+}
 ul {
     list-style-type: none;
+    background-color: black;
+    overflow: hidden;
 }
 li{
     float: left;
+    padding: 10px;
+}
+a {
+    text-decoration: white;
+    font-size: 35px;
+    color: white;
+}
+.dropdown-content {
+    display: none;
+}
+li:hover {
+    background-color: red;
+    color: black;
 }
