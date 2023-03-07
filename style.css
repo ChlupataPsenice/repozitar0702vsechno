@@ -1,3 +1,4 @@
+/*
 h1{color: blue;}
 #id1 {background-color: aqua;}
 .class1 {background-color: blueviolet;}
@@ -14,7 +15,7 @@ margin-right: 150px;
 margin-left: 80px;}
 .class3 {margin: 100px 100px 150px 200px;}
 a:link {color: aqua;}
-a:hover{color: darkmagenta;} /*kdyz najedu mysi, barvu meni*/
+a:hover{color: darkmagenta;}
 a:visited{color: gold;}
 a:link {text-decoration: none;}
 ul {list-style-type: none;}
@@ -25,7 +26,6 @@ li {
     border: 2px solid black;
 }
 a {display: block;}
-/*inlajnelementy nemaji margin a pdding, resp. nepouzivame je*/
 .sieg {margin-bottom: 100px;}
 #bagr {background-color: blueviolet;
 width: 150px;
@@ -35,3 +35,10 @@ overflow: hidden;}
 border: 5px solid black;
 width: 20%;
 float: center;}
+*/
+ul {
+    list-style-type: none;
+}
+li{
+    float: left;
+}
